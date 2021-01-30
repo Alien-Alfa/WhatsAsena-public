@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
+  <a href="alien.jpeg">
     <img src="alien.jpeg">
     
   </a>
@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
+  <img src="alien.jpg" width="200" height="200">
   <h1>🐺 WhatsAsena Duplicated</h1>
 </div>
 <p align="center">
