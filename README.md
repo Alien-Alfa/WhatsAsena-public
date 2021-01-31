@@ -118,7 +118,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 [![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![TOXIC4L!3N](https://github.com/AI-VIKI.png?size=100)](https://github.com/AI-VIKI) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) 
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas)
-Author, Base, Bug Fixes, Modules | Modifiying  as public | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea
+Author, Base, Bug Fixes, Modules | Modifiying  as   public | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
