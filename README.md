@@ -21,13 +21,8 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
 
 > [New whatsapp group.](https://chat.whatsapp.com/HoO71q8ZuGTDZ0gHubLzJF) (New)
-
-> [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
-
-> [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy) & [TOXIC 4L!3N](https://github.com/AI-VIKI) (Albin Thoams). Does not log into your account It is written on WhatsApp Web API.
