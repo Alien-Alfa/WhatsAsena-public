@@ -23,18 +23,18 @@
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
 
-> [New support & help group.](https://t.me/unofficialasena) (New)
+> [New whatsapp group.](https://chat.whatsapp.com/HoO71q8ZuGTDZ0gHubLzJF) (New)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 > [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy) & [TOXIC 4L!3N](https://github.com/AI-VIKI) (Albin Thoams). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
-`There is no support. Maybe I will handle it..`
+`There is no support. Maybe I will try to handle it  >TOXIC 4L!3N<..`
 
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
