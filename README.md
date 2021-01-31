@@ -114,7 +114,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 [![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![TOXIC4L!3N](https://github.com/AI-VIKI.png?size=100)](https://github.com/AI-VIKI)
 ----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
+[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [TOXIC4L!3N](https://github.com/AI-VIKI)
 Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Thanks To
