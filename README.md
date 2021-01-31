@@ -39,7 +39,7 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AI-VIKI/WhatsAlfa.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AI-VIKI/WhatsAsena-public.git)
 
 ### The Hard Method
 ```js
@@ -115,7 +115,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 [![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![TOXIC4L!3N](https://github.com/AI-VIKI.png?size=100)](https://github.com/AI-VIKI)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [TOXIC4L!3N](https://github.com/AI-VIKI)
-Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | modifiying to public
+Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modifiying to public
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
