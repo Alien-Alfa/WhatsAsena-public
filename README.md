@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="/alien.jepg.jpg" width="200" height="200">
+  <img src="/alien.jpeg.jpg" width="200" height="200">
   <h1>🐺 WhatsAsena-public</h1>
 </div>
 <p align="center">
