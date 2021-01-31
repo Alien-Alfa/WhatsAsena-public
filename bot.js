@@ -18,7 +18,7 @@ const { GreetingsDB, getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
 
 // Sql
-const WhatsAsenaDB = config.DATABASE.define('WhatsAsenaDuplicated', {
+const WhatsAsenaDB = config.DATABASE.define('WhatsAsena-public', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
