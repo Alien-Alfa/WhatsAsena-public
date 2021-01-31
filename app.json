@@ -1,15 +1,15 @@
 {
     "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "description": "WhatsAsena-Public - make whatsapp easy to use TOXIC 4L!3N.",
+    "logo": "https://github.com/AI-VIKI/WhatsAsena-public/alien.jpeg.jpg",
+    "keywords": ["whatsapp", "userbot", "Asena","Public","Toxic alien"],
+    "repository": "https://github.com/AI-VIKI/WhatsAsena-public",
+    "website":   "https://chat.whatsapp.com/HoO71q8ZuGTDZ0gHubLzJF",
+    "success_url": "https://chat.whatsapp.com/HoO71q8ZuGTDZ0gHubLzJFt",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+            "description": "Special session code you create with Qr.Js.",
             "required": true
         },
         "SUDO": {
@@ -27,12 +27,12 @@
             "value": "^[.!;]"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın.",
+            "description": "If you want to throw seen, type true.",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "Herokuda çalışıyorsa true yazın.",
+            "description": "If it is running in Heroku, type true.",
             "required": true,
             "value": "true"
         },
@@ -45,16 +45,16 @@
             "required": true
         },
         "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
+            "description": "Exclusive to developers.",
             "required": true,
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "description": "Removes the background of photos. https://remove.bg",
             "required": false
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın.",
+            "description": "Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
         },
