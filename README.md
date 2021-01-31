@@ -43,6 +43,17 @@
 
 ### The Hard Method
 ```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/AI-VIKI/WhatsAsena-public
+$ cd WhatsAsena
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+
+SETUP
 $ git clone https://github.com/AI-VIKI/WhatsAlfa.git
 $ cd WhatsAsenaDuplicated
 $ npm i
